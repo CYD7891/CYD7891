@@ -67,8 +67,6 @@ I value technical work that is:
 * **structured enough to scale**
 * **documented well enough to be understood by others**
 
-For me, professional presentation is not separate from engineering quality. A good project should not only work; it should also communicate its intent, its scope, and its reliability.
-
 ---
 
 ## Current Learning Priorities
@@ -87,8 +85,6 @@ For me, professional presentation is not separate from engineering quality. A go
 * projects moving beyond homework-style code
 * documentation written for usability
 * steady development from physics training toward engineering applications
-
-I am especially interested in building projects that make abstract theory operational: tools, simulations, visualizations, and analysis workflows that help technical ideas become easier to test, understand, and apply.
 
 ---
 
