@@ -98,7 +98,7 @@ I value technical work that is:
 
 <p>
   <a href="https://github.com/CYD7891">
-    <img src="https://img.shields.io/badge/GitHub-YOUR__USERNAME-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-CYD7891-0F172A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/chenyu-di-1833653a9/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
