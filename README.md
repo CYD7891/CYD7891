@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<img src="https://img.shields.io/badge/Focus-Compressible%20Flow-183B56?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Mechanical%20Engineering-183B56?style=flat-square" />
 <img src="https://img.shields.io/badge/Tooling-Scientific%20Python-274C77?style=flat-square" />
 <img src="https://img.shields.io/badge/Interest-Aerodynamics-3A5A98?style=flat-square" />
 <img src="https://img.shields.io/badge/Approach-Engineering--Driven-4A6FA5?style=flat-square" />
@@ -27,7 +27,7 @@
 
 ## Overview
 
-I am a first-year **Physics** student at the **University of California, Santa Barbara**, building toward work in **scientific computing**, **compressible flow**, and **aerodynamics**.
+I am a first-year **Physics** student at the **University of California, Santa Barbara**, building toward work in **scientific computing**, **mechanical engineering**, and **aerodynamics**.
 
 ---
 
