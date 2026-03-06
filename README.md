@@ -44,24 +44,6 @@ Rather than treating code as isolated assignments, I care about building softwar
 
 ---
 
-## Featured Direction
-
-### Compressible Flow Studio
-
-A Python-based project for exploring and presenting core compressible-flow relations through a cleaner engineering workflow.
-
-**Current emphasis**
-
-* physically grounded computation
-* clear command-line usage
-* visualization and report-friendly outputs
-* test coverage and project reliability
-* a repository structure that reflects engineering discipline rather than one-off scripting
-
-This project represents the direction I want my GitHub to move toward: technically rigorous, computationally useful, and presented with professional care.
-
----
-
 ## Technical Stack
 
 <p>
