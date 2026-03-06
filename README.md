@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### Physics Undergraduate at UCSB  •  Scientific Computing  •  Compressible Flow  •  Aerodynamics
+### Physics Undergraduate at UCSB  •  Scientific Computing  •  Data Analysis  •  Engineering
 
 <p>
   <a href="https://github.com/CYD7891">
