@@ -45,8 +45,6 @@ My projects are usually centered on one or more of the following:
 
 Rather than treating code as isolated assignments, I care about building software that feels closer to real technical work: clear interfaces, maintainable structure, meaningful outputs, and documentation that helps another person actually use the project.
 
----
-
 ## Technical Stack
 
 <p>
@@ -59,7 +57,6 @@ Rather than treating code as isolated assignments, I care about building softwar
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
 </p>
 
----
 
 ## Current Learning Priorities
 
@@ -68,8 +65,6 @@ Rather than treating code as isolated assignments, I care about building softwar
 * engineering-oriented software design
 * aerodynamic analysis workflows
 * stronger testing and project packaging practices
-
----
 
 ## Connect
 
