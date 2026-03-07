@@ -11,9 +11,6 @@
 ### Physics Undergraduate at UCSB  •  Scientific Computing  •  Data Analysis  •  Engineering
 
 <p>
-  <a href="https://github.com/CYD7891">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/chenyu-di-1833653a9/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -64,17 +61,6 @@ Rather than treating code as isolated assignments, I care about building softwar
 
 ---
 
-## Working Style
-
-I value technical work that is:
-
-* **clear before flashy**
-* **correct before decorative**
-* **structured enough to scale**
-* **documented well enough to be understood by others**
-
----
-
 ## Current Learning Priorities
 
 * compressible flow and gas dynamics
@@ -82,15 +68,6 @@ I value technical work that is:
 * engineering-oriented software design
 * aerodynamic analysis workflows
 * stronger testing and project packaging practices
-
----
-
-## What You’ll See on This Profile
-
-* repositories with a clear scientific or engineering purpose
-* projects moving beyond homework-style code
-* documentation written for usability
-* steady development from physics training toward engineering applications
 
 ---
 
