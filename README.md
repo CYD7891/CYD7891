@@ -30,7 +30,7 @@
 
 ## Overview
 
-I am a first-year **Physics** student at the **University of California, Santa Barbara**, building toward work in **scientific computing**, **mechanical engineering**, and **aerodynamics**.
+I am a **Physics** student at the **University of California, Santa Barbara**, building toward work in **scientific computing**, **mechanical engineering**, and **aerodynamics**.
 
 ---
 
